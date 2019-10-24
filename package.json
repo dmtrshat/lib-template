@@ -1,0 +1,25 @@
+{
+  "name": "lib-template",
+  "version": "1.0.0",
+  "description": "Template for developing Node.js libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmtrshat/lib-template.git"
+  },
+  "keywords": [
+    "lib",
+    "js",
+    "node",
+    "template"
+  ],
+  "author": "Dmitry Shatokhin <dmtrshatokhin@gmail.com> (https://github.com/dmtrshat)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmtrshat/lib-template/issues"
+  },
+  "homepage": "https://github.com/dmtrshat/lib-template#readme"
+}
